@@ -1,6 +1,9 @@
 fastapi[all]
 openai
 python-dotenv
+uvicorn
+jinja2
+deta
 pydantic==1.*
 langchain
 bs4
